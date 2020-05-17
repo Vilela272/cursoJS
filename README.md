@@ -61,4 +61,4 @@ Lista do que será ensinado nas seções:
 
  - React JS Avançado - React Hooks, Redux + Redux Saga, Autenticação com JWT, Redux Persist e muito mais.  
  
-Bônus: Expressões Regulares (Regex)
+ - Bônus: Expressões Regulares (Regex)
