@@ -15,6 +15,6 @@ imc = peso / (alturaEmM * alturaEmM);
 anoNascimento = 2020 - idade
 // template strings
 
-console.log(nome + ' ' + sobrenome + ' ' + 'tem' + ' ' + idade + ' ' + 'anos, pesa' + ' ' + peso + ' ' +'kg');
-console.log('tem' + ' ' + alturaEmM + ' ' + 'de altura e seu IMC é de' + ' ' + imc);
-console.log(nome + ' ' + sobrenome + ' ' + 'nasceu em' + ' ' +anoNascimento);
+console.log(`${nome} ${sobrenome} tem ${idade} e seu peso é de ${peso}kg e sua altura é de ${alturaEmM}M`);
+console.log(`tem ${alturaEmM} de altura e seu IMC é de ${imc}`);
+console.log(`${nome} ${sobrenome} nasceu em ${anoNascimento}`);

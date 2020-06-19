@@ -1,0 +1,6 @@
+curso de JS - Java Script
+
+Comandos:
+Console.log(); -> exibir mensagem na tela
+const -> não pode ser alterado
+let -> para declarar uma varável
